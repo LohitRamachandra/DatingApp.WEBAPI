@@ -1,0 +1,27 @@
+﻿# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore JetBrains Rider files
+.idea/
+
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore NuGet packages
+*.nuget.props
+*.nuget.targets
+
+# Ignore .NET build artifacts
+*.dll
+*.pdb
+*.exe
+*.cache
+*.log
+
+# Ignore Node.js packages
+node_modules/
